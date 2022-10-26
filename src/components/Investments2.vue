@@ -1,3 +1,10 @@
+<!--
+ * @Author: I527836 cathy.chen01@sap.com
+ * @Date: 2022-10-25 15:11:54
+ * @LastEditors: I527836 cathy.chen01@sap.com
+ * @LastEditTime: 2022-10-26 15:48:30
+ * @Description: 
+-->
 <template>
   <div :class="[`investments-5`, className || ``]">
     <p class="tittle-8 teddy-72-black-white-14px">{{ tittle }}</p>
@@ -25,7 +32,6 @@ export default {
   border: 0.84px none
   display: flex
   flex-direction: column
-  gap: 20px
   position: relative
   width: fit-content
 

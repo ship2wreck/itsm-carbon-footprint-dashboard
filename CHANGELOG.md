@@ -18,3 +18,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Nav bar (`TheNavigation.vue`)
 - Edit button on the nav bar
 - Deployed to Cloudflare Pages: https://itsm-carbon-footprint-dashboard.teddysc.me/ .
+
+## 2022-10-26
+
+### Changed (By Cathy)
+- Color Design of the Bubbles
+- Adjust a few formats

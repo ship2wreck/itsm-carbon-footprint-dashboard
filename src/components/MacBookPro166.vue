@@ -445,19 +445,19 @@ export default {
   width: 63px
 
 .bubble
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, rgb(197 50 49) 0%, rgb(169 39 39 / 58%) 100%)
   border: 0.84px none
   border-radius: 30px
-  box-shadow: inset 8.38px 16.75px 41.88px #ff0505 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #f700767a
+  box-shadow: 0px 0px 17px 0px #ff5522, inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(247 0 118 / 48%), 0px 0px 16.75px rgb(255 146 146 / 13%)
   height: 60px
   margin-right: 3px
   width: 60px
 
 .bubble-1
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, rgb(197 50 49) 0%, rgb(169 39 39 / 58%) 100%)
   border: 0.84px none
   border-radius: 25px
-  box-shadow: inset 8.38px 16.75px 25.12px #ff0505 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #f700767a
+  box-shadow: 0px 0px 17px 0px #ff5522, inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(247 0 118 / 48%), 0px 0px 16.75px rgb(255 146 146 / 13%)
   height: 50px
   width: 50px
 
@@ -495,10 +495,10 @@ export default {
   width: 652px
 
 .bubble-2
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, rgb(197 50 49) 0%, rgb(169 39 39 / 58%) 100%)
   border: 0.84px none
   border-radius: 50px
-  box-shadow: inset 8.38px 16.75px 83.75px #ff0505 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #f700767a
+  box-shadow: 0px 0px 17px 0px #ff5522, inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(247 0 118 / 48%), 0px 0px 16.75px rgb(255 146 146 / 13%)
   height: 100px
   left: 548px
   position: absolute
@@ -506,10 +506,10 @@ export default {
   width: 100px
 
 .bubble-3
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, rgb(197 50 49) 0%, rgb(169 39 39 / 58%) 100%)
   border: 0.84px none
   border-radius: 25px
-  box-shadow: inset 8.38px 16.75px 25.12px #ff0505 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #f700767a
+  box-shadow: 0px 0px 17px 0px #ff5522, inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(247 0 118 / 48%), 0px 0px 16.75px rgb(255 146 146 / 13%)
   height: 50px
   left: 514px
   position: absolute
@@ -517,10 +517,10 @@ export default {
   width: 50px
 
 .bubble-4
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, rgb(197 50 49) 0%, rgb(169 39 39 / 58%) 100%)
   border: 0.84px none
   border-radius: 30px
-  box-shadow: inset 8.38px 16.75px 41.88px #ff0505 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #f700767a
+  box-shadow: 0px 0px 17px 0px #ff5522, inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(247 0 118 / 48%), 0px 0px 16.75px rgb(255 146 146 / 13%)
   height: 60px
   left: 413px
   position: absolute
@@ -528,10 +528,10 @@ export default {
   width: 60px
 
 .bubble-5
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, rgb(197 50 49) 0%, rgb(169 39 39 / 58%) 100%)
   border: 0.84px none
   border-radius: 20px
-  box-shadow: inset 8.38px 16.75px 41.88px #ff0505 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #f700767a
+  box-shadow: 0px 0px 17px 0px #ff5522, inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(247 0 118 / 48%), 0px 0px 16.75px rgb(255 146 146 / 13%)
   height: 40px
   left: 130px
   position: absolute
@@ -539,10 +539,10 @@ export default {
   width: 40px
 
 .bubble-6
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, #09c6cb94 0%, rgb(96 208 243 / 15%) 100%)
   border: 0.84px none
   border-radius: 25px
-  box-shadow: inset 8.38px 13.4px 16.75px #8205fff2 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #2200f7
+  box-shadow: 0px 0px 16.75px 0px rgb(96 208 243 / 80%), inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(96 208 243 / 80%)
   height: 50px
   left: 212px
   position: absolute
@@ -550,10 +550,10 @@ export default {
   width: 50px
 
 .bubble-7
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, #09c6cb94 0%, rgb(96 208 243 / 15%) 100%)
   border: 0.84px none
   border-radius: 25px
-  box-shadow: inset 8.38px 13.4px 16.75px #8205fff2 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #2200f7
+  box-shadow: 0px 0px 16.75px 0px rgb(96 208 243 / 80%), inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(96 208 243 / 80%)
   height: 50px
   left: 581px
   position: absolute
@@ -561,10 +561,10 @@ export default {
   width: 50px
 
 .bubble-8
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, #09c6cb94 0%, rgb(96 208 243 / 15%) 100%)
   border: 0.84px none
   border-radius: 25px
-  box-shadow: inset 8.38px 13.4px 16.75px #8205fff2 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #2200f7
+  box-shadow: 0px 0px 16.75px 0px rgb(96 208 243 / 80%), inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(96 208 243 / 80%)
   height: 50px
   left: 363px
   position: absolute
@@ -572,10 +572,10 @@ export default {
   width: 50px
 
 .bubble-9
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, #09c6cb94 0%, rgb(96 208 243 / 15%) 100%)
   border: 0.84px none
   border-radius: 25px
-  box-shadow: inset 8.38px 13.4px 16.75px #8205fff2 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #2200f7
+  box-shadow: 0px 0px 16.75px 0px rgb(96 208 243 / 80%), inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(96 208 243 / 80%)
   height: 50px
   left: 642px
   position: absolute
@@ -583,10 +583,10 @@ export default {
   width: 50px
 
 .bubble-10
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, #09c6cb94 0%, rgb(96 208 243 / 15%) 100%)
   border: 0.84px none
   border-radius: 25px
-  box-shadow: inset 8.38px 13.4px 16.75px #8205fff2 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #2200f7
+  box-shadow: 0px 0px 16.75px 0px rgb(96 208 243 / 80%), inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(96 208 243 / 80%)
   height: 50px
   left: 369px
   position: absolute
@@ -594,10 +594,10 @@ export default {
   width: 50px
 
 .bubble-11
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, rgb(197 50 49) 0%, rgb(169 39 39 / 58%) 100%)
   border: 0.84px none
   border-radius: 40px
-  box-shadow: inset 8.38px 16.75px 83.75px #ff0505 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #f700767a
+  box-shadow: 0px 0px 17px 0px #ff5522, inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(247 0 118 / 48%), 0px 0px 16.75px rgb(255 146 146 / 13%)
   height: 80px
   left: 19px
   position: absolute
@@ -605,10 +605,10 @@ export default {
   width: 80px
 
 .bubble-12
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, rgb(197 50 49) 0%, rgb(169 39 39 / 58%) 100%)
   border: 0.84px none
   border-radius: 30px
-  box-shadow: inset 8.38px 16.75px 83.75px #ff0505 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #f700767a
+  box-shadow: 0px 0px 17px 0px #ff5522, inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(247 0 118 / 48%), 0px 0px 16.75px rgb(255 146 146 / 13%)
   height: 60px
   left: 685px
   position: absolute
@@ -616,10 +616,10 @@ export default {
   width: 60px
 
 .bubble-13
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, rgb(197 50 49) 0%, rgb(169 39 39 / 58%) 100%)
   border: 0.84px none
   border-radius: 30px
-  box-shadow: inset 8.38px 16.75px 83.75px #ff0505 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #f700767a
+  box-shadow: 0px 0px 17px 0px #ff5522, inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(247 0 118 / 48%), 0px 0px 16.75px rgb(255 146 146 / 13%)
   height: 60px
   left: 460px
   position: absolute
@@ -627,10 +627,10 @@ export default {
   width: 60px
 
 .bubble-14
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, rgb(9 198 203 / 25%) 0%, rgba(96, 208, 243, 0.15) 100%)
   border: 0.84px none
   border-radius: 80px
-  box-shadow: inset 8.38px 16.75px 83.75px #ff0505 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #f700767a
+  box-shadow: inset 0px 0px 16.75px 0px rgb(96 208 243 / 80%), inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), inset 0px 3.35px 67px rgb(96 208 243 / 80%)
   height: 160px
   left: 162px
   position: absolute
@@ -638,10 +638,10 @@ export default {
   width: 160px
 
 .bubble-15
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, rgb(144 11 10) 0%, rgb(169 39 39 / 23%) 100%)
   border: 0.84px none
   border-radius: 60px
-  box-shadow: inset 8.38px 16.75px 83.75px #ff0505 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #f700767a
+  box-shadow: inset 0px 0px 17px 0px #ff5522, inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), inset 0px 3.35px 67px rgb(247 0 118 / 48%), 0px 0px 16.75px rgb(255 146 146 / 13%)
   height: 120px
   left: 553px
   position: absolute
@@ -649,10 +649,10 @@ export default {
   width: 120px
 
 .bubble-16
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, #09c6cb94 0%, rgb(96 208 243 / 15%) 100%)
   border: 0.84px none
   border-radius: 40px
-  box-shadow: inset 8.38px 13.4px 16.75px #8205fff2 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #2200f7
+  box-shadow: 0px 0px 16.75px 0px rgb(96 208 243 / 80%), inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(96 208 243 / 80%)
   height: 80px
   left: 711px
   position: absolute
@@ -660,10 +660,10 @@ export default {
   width: 80px
 
 .bubble-17
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, rgb(9 198 203 / 25%) 0%, rgba(96, 208, 243, 0.15) 100%)
   border: 0.84px none
   border-radius: 80px
-  box-shadow: inset 8.38px 13.4px 16.75px #8205fff2 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #2200f7
+  box-shadow: inset 0px 0px 16.75px 0px rgb(96 208 243 / 80%), inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), inset 0px 3.35px 67px rgb(96 208 243 / 80%)
   height: 160px
   left: 0
   position: absolute
@@ -671,10 +671,10 @@ export default {
   width: 160px
 
 .bubble-18
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, #09c6cb94 0%, rgb(96 208 243 / 15%) 100%)
   border: 0.84px none
   border-radius: 20px
-  box-shadow: inset 8.38px 13.4px 16.75px #8205fff2 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #2200f7
+  box-shadow: 0px 0px 16.75px 0px rgb(96 208 243 / 80%), inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(96 208 243 / 80%)
   height: 40px
   left: 162px
   position: absolute
@@ -682,10 +682,10 @@ export default {
   width: 40px
 
 .bubble-19
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, #09c6cb94 0%, rgb(96 208 243 / 15%) 100%)
   border: 0.84px none
   border-radius: 20px
-  box-shadow: inset 8.38px 13.4px 16.75px #8205fff2 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #2200f7
+  box-shadow: 0px 0px 16.75px 0px rgb(96 208 243 / 80%), inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(96 208 243 / 80%)
   height: 40px
   left: 182px
   position: absolute
@@ -747,10 +747,10 @@ export default {
   width: fit-content
 
 .bubble-20
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, rgb(197 50 49) 0%, rgb(169 39 39 / 58%) 100%)
   border: 0.84px none
   border-radius: 20px
-  box-shadow: inset 8.38px 16.75px 41.88px #ff0505 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #f700767a
+  box-shadow: 0px 0px 17px 0px #ff5522, inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(247 0 118 / 48%), 0px 0px 16.75px rgb(255 146 146 / 13%)
   height: 40px
   left: 718px
   position: absolute
@@ -759,9 +759,9 @@ export default {
 
 .overlap-group2-2
   align-items: flex-end
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, rgb(144, 11, 10) 0%, rgba(169, 39, 39, 0.3) 100%)
   border-radius: 100px
-  box-shadow: inset 8.38px 16.75px 83.75px #ff0505 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #f700767a
+  box-shadow: inset 0px 0px 17px 0px #ff5522, inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), inset 0px 3.35px 67px rgb(247 0 118 / 48%), 0px 0px 16.75px rgb(255 146 146 / 13%)
   display: flex
   height: 200px
   left: 723px
@@ -771,10 +771,10 @@ export default {
   top: 207px
 
 .bubble-21
-  background: radial-gradient(50% 50% at 50% 50%, rgb(50.19, 68.33, 231.63) 0%, rgba(0, 1.59, 15.94, 0) 100%)
+  background: radial-gradient(50% 50% at 50% 50%, #09c6cb94 0%, rgb(96 208 243 / 15%) 100%)
   border: 0.84px none
   border-radius: 25px
-  box-shadow: inset 8.38px 13.4px 16.75px #8205fff2 , inset 0px 1.68px 8.38px #ffffff94 , 0px 3.35px 67px #2200f7
+  box-shadow: 0px 0px 16.75px 0px rgb(96 208 243 / 80%), inset 0px 1.68px 8.38px rgb(255 255 255 / 58%), 0px 3.35px 67px rgb(96 208 243 / 80%)
   height: 50px
   left: 0
   position: absolute
